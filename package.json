@@ -1,0 +1,8 @@
+{
+  "name": "monobank-invoice-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node api/invoice.js"
+  }
+}
